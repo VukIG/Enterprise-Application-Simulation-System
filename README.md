@@ -1,8 +1,5 @@
-Certainly! Here's the Markdown code for the formatted README:
 
-markdown
-
-# SANJAC - Enterprise Applications Simulation System
+# EPSS - Enterprise Applications Simulation System
 
 ## Introduction
 
@@ -52,7 +49,8 @@ typedef struct predmet {
 typedef struct prijava {
     int brojindeksa, sifra_pred, ocena;
     struct prijava *sledeci;
-} prijava;```
+} prijava;
+```
 
 ## Functions
 
